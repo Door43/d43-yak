@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yak:home|Door43 (yak)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yak|d43-yak repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yak/archive/master.zip|d43-yak.zip]]
+
+**Recent Changes**
+{{changes>ns = yak}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yak|Ethnologue data]]
+
